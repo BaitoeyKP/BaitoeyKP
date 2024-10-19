@@ -6,6 +6,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg">  
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg">
 </p>
 
