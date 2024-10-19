@@ -34,5 +34,4 @@ https://github.com/ziadOUA/m3-Markdown-Badges?tab=readme-ov-file#browsing-the-li
 -->
 
 # Social
-[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](https://www.linkedin.com/in/kanyarat-phookosot)
-
+[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg">](https://www.linkedin.com/in/kanyarat-phookosot
