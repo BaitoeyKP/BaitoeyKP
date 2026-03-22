@@ -20,6 +20,12 @@
 
 ###
 
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaitoeyKP&locale=en&hide_title=false&layout=compact&theme=default&hide_border=true&order=2" alt="languages graph"  />
+</div> -->
+
+###
+
 <h2 align="left">💻 FRONTEND</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
